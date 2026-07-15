@@ -79,7 +79,7 @@ git clone https://github.com/your-username/dice-roller.git
 
 **Mahnoor Iftikhar**
 
-GitHub: https://github.com/mahnooriftikhardev
+GitHub: https://github.com/mahnooriftikhar-dev
 
 ---
 
