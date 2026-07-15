@@ -17,10 +17,10 @@ function roll() {
         // Generate a random number between 1 and 6
         const value = Math.floor(Math.random() * 6) + 1;
 
-        // Store the number
+        // Storing the number in empty array of values
         values.push(value);
 
-        // Store the image
+        // Storing the image in empty array of images
         images.push(`<img src="dice_images/${value}.png" alt="Dice ${value}">`);
     }
 
